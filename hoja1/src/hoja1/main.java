@@ -14,7 +14,6 @@ import javax.swing.JFrame;
 
 
 public final class main extends JFrame {
-    int variable;
     private final int OFFSET = 30;
 
     public main() {
